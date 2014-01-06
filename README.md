@@ -2,6 +2,7 @@ rig_jedithug_simple_dk
 ======================
 
 a rig script for RTB's Donkey Kong model
+
 made for /u/DoovadHohdan
 
 ----------------------
